@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/botc_randomizer/__init__.py
+src/botc_randomizer/constraints.py
+src/botc_randomizer/generator.py
+src/botc_randomizer/main.py
+src/botc_randomizer/py.typed
+src/botc_randomizer/roles.py
+src/botc_randomizer/rules.py
+src/botc_randomizer/sampling.py
+src/botc_randomizer.egg-info/PKG-INFO
+src/botc_randomizer.egg-info/SOURCES.txt
+src/botc_randomizer.egg-info/dependency_links.txt
+src/botc_randomizer.egg-info/top_level.txt
