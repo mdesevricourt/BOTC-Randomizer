@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: botc-randomizer
+Version: 0.1.0
+Summary: BOTC Trouble Brewing randomizer
+Author: mdesevricourt
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# BOTC-Randomizer
